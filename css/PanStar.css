@@ -1898,16 +1898,14 @@ body {
 
     display: flex;
     flex-direction: column;
-    width: 300px;
+    width: 60%;
 
 
   }
 
   .tap_menu .mini_pit .left_img {
-    margin-left: 35%;
-    margin-bottom: 5%;
-
-
+    position: relative;
+    left: 20%;
   }
 
   .tap_box .btn a {
